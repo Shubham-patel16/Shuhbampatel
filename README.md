@@ -27,7 +27,8 @@
   👨‍💻 Code editor: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
   <br>
   :thought_balloon: upload web: <a href="https://github.com/Shuhbampatel?tab=repositories"><img src="https://img.shields.io/badge/git hub-0078D6?logo=github&logoColor=white&style=for-the-badge&color=0086D1"></a>
-
+<br>
+  👨‍💻 web launch : <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-0078D6?logo=netlify&logoColor=white&style=for-the-badge&color=0086D1"></a>
   <!--
 **Shuhbampatel/Shuhbampatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
