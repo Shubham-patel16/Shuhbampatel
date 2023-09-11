@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hii! I am Shubham</h2>
 <h4 align="center">
-  I am a 18 years old student learning web development and programming😃.
+  I am a student learning web development and programming😃.
   </h4>
   
 
@@ -15,7 +15,7 @@
 <p align="center">
   My interests: <br>
   <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css,scss%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/c progamming%20-%23323330.svg?&style=for-the-badge&logo=c&logoColor=%23F7DF1E">
 </p>
